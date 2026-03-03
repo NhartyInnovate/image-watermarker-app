@@ -20,3 +20,9 @@ A Tkinter + Pillow desktop application that allows users to add text watermarks 
 ```bash
 pip install pillow
 python watermarker.py
+
+## Downloadable EXE (Windows)
+
+You can download the Windows executable from the `dist/` folder or from the Releases section.
+
+> Note: Built with PyInstaller. You might get a SmartScreen or antivirus prompt because it’s not a signed application.
